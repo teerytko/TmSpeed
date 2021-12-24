@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "TmSpeed"
 include ':app'
+include ':sdkOpenCV4'
